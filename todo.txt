@@ -1,32 +1,3 @@
-Custom weapon specials: 	
-	1) armorymod_type: id names the weapon type, identical to $armorymod_ref.<melee or ranged>[<an index>].type|
-		can be a comma separated list UNLESS
-		If the attack is not a weapon, id is either unarmed or nonweapon
-	2) ?: identifies attacks that our custom anims should play for
+Add some kind of readme file that is actually helpful
 
-UPDATING PROGRESS: 
-	update_unit_vars - FINISHED
-	rebuild_unit - FINISHED
-	tools - FINISHED
-	weapon_to_attack - FINISHED
-	
-
-Details in dealing with weapon specials are key to resolving the druid problem:
-	-Specials are partitioned between those that belong to the skill and those that belong to the weapon- most belong to the weapon
-	charge-SKILL
-	backstab-SKILL
-	berserk-SKILL
-	marksman-SKILL
-	plague-WEAPON
-	magical-WEAPON
-	poison-WEAPON
-	slows-WEAPON
-	swarm-WEAPON
-	drain-WEAPON
-	firststrike-WEAPON
-	others-WEAPON
-	
-	
-	
-	
-	
+Test whether the _server.ign file worked
