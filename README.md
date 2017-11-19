@@ -19,6 +19,12 @@ Whenever the weapons might have changed, the unit is essentially rebuild, based 
 Attacks are up to date. Data for the unit's Skills and Weapons are stored in the unit variables, in a container called "armorymod"
 (So if the whole unit is stored in $unit|, the weapons would be in the array: $unit.variables.armorymod.weapons|)
 
+Finally, before diving into the code structure, here is an important note about variable names:
+Since every file/event usually needs the same things (a variable to temporarily store a unit or weapons for example)
+it makes sense to have a naming convention; each event will use it's own container variable, so that inside of it it can
+follow the same conventions as other files.
+So for example, the event "armorymod_update_unit_vars" will frequently use $armorymod.update_unit_vars.unit.variables.armorymod.weapons[1].type|
+Since that name is ugly and long, I use macros in each file; so now all files wil frequenly use ${WORKSPACE}unit{DOT}weapons[1].type|
 
 All the actual code is in the directory utils/, where there are 9 files:
 1) macros.cfg
