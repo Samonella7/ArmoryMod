@@ -1,4 +1,5 @@
 This is an add-on for The Battle For Wesnoth (www.wesnoth.org). It is currently only availabe on the development branch, 1.13
+Designed and programmed by Samuel Thayer (Samonella)
 
 Please comment at https://forums.wesnoth.org/viewtopic.php?f=15&p=617608
 
