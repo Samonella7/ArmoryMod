@@ -68,5 +68,10 @@
 ----------------------------------
 - Added the side_for= key to the help messages
 
+1.1.2
+3/2/2017
+----------------------------------
+- Tweaked image names to account for the dunefolk renaming
+
 
 
