@@ -69,9 +69,14 @@
 - Added the side_for= key to the help messages
 
 1.1.2
-3/2/2017
+3/2/2018
 ----------------------------------
 - Tweaked image names to account for the dunefolk renaming
+
+1.1.3
+3/7/2018
+----------------------------------
+- Added warning to not mix this mod with my campaign, Voyage of a Drake
 
 
 
