@@ -1,4 +1,7 @@
 Add some kind of readme file that is actually helpful
-open armory mod / ai picks up weapons on moveto?
 
-Maybe: inventory gui system that's more ergonomic
+ai picks up weapons on moveto?
+
+new menu for other options
+
+whas up with da ground images
