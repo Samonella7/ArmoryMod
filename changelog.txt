@@ -88,6 +88,9 @@
 ----------------------------------
 - Another (much more miner) improvement
 
-
+1.2.2
+3/9/2018
+----------------------------------
+- Adds warning that the campaign is incompatible with The Black Cross of Aleron
 
 
