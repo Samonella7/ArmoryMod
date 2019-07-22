@@ -93,4 +93,8 @@
 ----------------------------------
 - Adds warning that the campaign is incompatible with The Black Cross of Aleron
 
-
+1.2.3
+7/21/2019
+----------------------------------
+- Fixes exploit that allowed players to open the armory menu on fogged tiles, 
+	thereby learning enemy unit placement
