@@ -1,0 +1,180 @@
+axes:
+	axe
+	battleaxe
+	battle axe
+	berserker frenzy
+	halberd
+	pick
+	glaive
+	scythe
+	war blade
+	war talon
+spears:
+	pitchfork
+	spear
+	lance
+	pike
+	trident
+	halberd
+swords:
+	war blade
+	war talon
+	saber
+	baneblade
+	longsword
+	greatsword
+	sword
+	astral blade
+	training sword
+	flaming sword
+	sword_fire
+	sword_nofire
+	scimitar
+	curved blade
+	scimitar_balance
+	scimitar_force
+daggers:
+	dagger
+	short sword
+	blade
+	chakram_melee
+clubs:
+	club
+	mace-spiked
+	mace
+	hammer
+	flail
+	torch
+	staff
+	plague staff
+	cleaver
+	morning star
+	greathammer
+	scepter
+shields:
+	shield
+	shield bash
+sharp_projectiles:
+	hatchet
+	javelin
+	spear
+	knife
+	knives
+	throwing knives
+	pitchfork
+	axe
+	darts
+	chakram
+	chakri
+	jarid
+dull_projectiles:
+	net
+	sling
+	bolas
+	bomb
+pure_bows:
+	bow
+	fire arrow
+	crossbow
+	composite bow
+	longbow
+	blowgun
+guns:
+	thunderstick
+	dragonstaff
+	flamethrower
+fire_magic:
+	flame blast
+	fireball
+	lightning
+	missile
+	sceptre of fire
+	storm trident
+holy_magic:
+	sun invocation
+	sun incarnate
+	sun ray
+	faerie fire
+	lightbeam
+nature_magic:
+	ensnare
+	entangle
+	gossamer
+	thorns
+	water spray
+	spray
+	sand
+evil_magic:
+	chill tempest
+	chill wave
+	curse
+	magic blast
+	ravanal_shadow_wave
+	ice blast
+	shadow bolt
+	shadow blast
+	shadow wave
+	magic
+	energy ray
+	chilll gale
+	desert lightning
+	desert windblast
+	blast wave
+non-attack:
+	wail
+	horn
+	fist-merman
+	hooves
+	melee_attack
+	polybolos
+	whirlwind
+	sting
+	fire
+	claw
+	strike
+	gaze
+	jaw
+	sand storm
+	slam
+	naia touch
+	faerie touch
+	twister
+	bite
+	kick
+	kelp
+	feathers
+	mud glob
+	web
+	whinny
+	ram
+	trample
+	blood kiss
+	pincers
+	tail
+	boarders
+	smash
+	shriek
+	crush
+	fist
+	raging blizzard
+	tusk
+	tail-merman
+	falcon
+	onager
+	battle claws
+	fire claws
+	tentacle
+	fire breath
+	squall
+	smashing frenzy
+	touch
+	beak
+	fangs
+	pommel strike
+	deterrent strike
+	ballista
+	ink
+	breath
+	claws
+	rock
+unsorted:
