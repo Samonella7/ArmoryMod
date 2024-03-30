@@ -127,3 +127,5 @@ Update icon since Dunefolk Blademaster changed and can't be used
 - Port to wesnoth 1.18
 - Replace IPF icon with prebaked one. they keep updated the sprites :'(
 - misc typos
+- allow displaying multiple weapon types
+- added maintenance tools to git repo (and _server.ign)
